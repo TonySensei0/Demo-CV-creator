@@ -1,1 +1,1 @@
-# Demo-CV-creator
+# Demo CV creator
